@@ -5,3 +5,5 @@ matplotlib
 scikit-image
 opencv-python
 imageio
+google-cloud
+google-cloud-automl
